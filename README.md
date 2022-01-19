@@ -1,6 +1,6 @@
 # YM_MBG6113_Final
 All steps given here were done in *jupyter notebook* which was downloaded using [*Anaconda Navigator*](https://docs.anaconda.com/anaconda/install/windows/). Then, *numpy* and *matplot* were imported as they are required to achieve the assignments given in the [Final Exam.docx](https://github.com/ym-ibg/YM_MBG6113_Final/raw/main/Final%20Exam.docx).
-All the code used in this assignment are provided in [YM_MBG6113_Final.ipynb]( 
+All the code used in this assignment are provided in [YM_MBG6113_Final.ipynb](https://github.com/ym-ibg/YM_MBG6113_Final/blob/main/YM_MBG6113_Final.ipynb). 
 
 <pre><code>import numpy as np
 import matplotlib.pylab as plt
@@ -33,7 +33,7 @@ The resulting heatmap:
 
 Odd and even numbers in the matrix *ym100* was depicted and indexed into another matrix *ym_odds_evens*. The resulting matrix is composed of two statements *True* and *False* based on the number in the relative coordinate is even or odd, respectively.
 
-<pre><code> ym_odds_evens = (ym100 %2 == 0)
+<pre><code>ym_odds_evens = (ym100 %2 == 0)
 print(ym_odds_evens) </pre></code>
 
 The output:

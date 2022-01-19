@@ -6,7 +6,7 @@ import matplotlib.pylab as plt
 </pre></code>
 
 ## Q1.1
-An two dimentional 100x100 array including rondom numbers between 0 and 100 was formed. To be able to create random numbers *rondom* function was imported. Then the array *ym100* was created.
+A two dimentional 100x100 array including rondom numbers between 0 and 100 was formed. To be able to create random numbers *rondom* function was imported. Then the array *ym100* was created.
 <pre><code>from numpy import random
 ym100 = random.randint (100, size=(100,100))
 print(ym100)

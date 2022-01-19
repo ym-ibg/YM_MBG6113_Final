@@ -1,5 +1,6 @@
 # YM_MBG6113_Final
 All steps given here were done in *jupyter notebook* which was downloaded using [*Anaconda Navigator*](https://docs.anaconda.com/anaconda/install/windows/). Then, *numpy* and *matplot* were imported as they are required to achieve the assignments given in the [Final Exam.docx](https://github.com/ym-ibg/YM_MBG6113_Final/raw/main/Final%20Exam.docx).
+All the code used in this assignment are provided in [YM_MBG6113_Final.ipynb]( 
 
 <pre><code>import numpy as np
 import matplotlib.pylab as plt
